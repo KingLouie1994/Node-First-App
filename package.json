@@ -1,0 +1,24 @@
+{
+  "name": "node-first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingLouie1994/Node-First-App.git"
+  },
+  "author": "Luis Schekerka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingLouie1994/Node-First-App/issues"
+  },
+  "homepage": "https://github.com/KingLouie1994/Node-First-App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
